@@ -1,0 +1,23 @@
+# include iostream 
+using namespace std ;
+void main ( )
+{
+int x ;
+cout << " please_enter_your_phone_number  " << endl ;
+cin >> x >> " 123456789 " ;
+if ( x == " 123456789 " )
+    return true ;
+else :
+    return false ;
+}
+
+_compiler 
+/* comment */  
+
+S&m
+k#
+lexical@
+ya^Rab
+Elhamd_LLh
+
+
